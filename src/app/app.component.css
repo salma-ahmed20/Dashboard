@@ -1,0 +1,10 @@
+
+.wrapper{
+    width: 84%;
+    background-color: white;
+    position: relative;
+    left: 195px;
+    top: 20px;
+    padding: 3px ;
+    border-radius: 1%;
+}

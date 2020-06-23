@@ -1,0 +1,22 @@
+.content{
+    width: 155px;
+    position: absolute;
+    top: 130px;
+    padding-left: 20px;
+}
+.fa-home,.fa-users,.fa-user-circle{
+    padding-right: 15px;
+    font-size: 25px;
+}
+.nav-link{
+    font-size: 20px;
+    
+}
+.title{
+    position: relative;
+    bottom:60px;
+    padding-left: 12px;
+    color: white;
+    font-size: 25px;
+
+  }
